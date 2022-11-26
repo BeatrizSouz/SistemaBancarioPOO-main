@@ -1,2 +1,2 @@
 # SistemaBancarioPOO
- Sistema Bancario - mesttra - Java+Banco de Dados
+ Sistema Bancario desenvolvido em Java usando PostgreSQL
